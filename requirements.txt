@@ -9,3 +9,6 @@ aiosqlite
 # Pydantic
 pydantic
 pydantic-settings
+
+# Timezones
+pytz
